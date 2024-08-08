@@ -1,0 +1,10 @@
+{
+  "name": "sass Build",
+  "version": "1.0.0",
+  "scripts": {
+    "build:sass": "sass src/styles:dist/styles"
+  },
+  "devDependencies": {
+    "sass": "^1.35.1"
+  }
+}
